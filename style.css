@@ -1,0 +1,243 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px ;
+    padding: 0px;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nome {
+    text-decoration: none;
+    font-size: 3em;
+    font-style: italic;
+    
+}
+.codar {
+    list-style: none;
+    text-align: right;
+    margin: 20px;
+    padding-left: 30px;
+    color: #d3000d;
+    font-size: 1.8em;
+    
+}
+nav > a {
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 20px;
+    color: black;
+    font-size: 1.5em;
+    padding-top: 10px;
+}
+nav > input {
+    margin-left: 50px;
+    margin-right: 80px;
+}
+
+.botao {
+    height: 50px;
+    width: 180px;
+    border-radius: 9px;
+    background-color: #d3000d;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+    
+}
+.botao1 {
+    height: 80px;
+    width: 280px;
+    border-radius: 9px;
+    background-color: #d3000d;
+    color: white;
+    font-size: 1.5em;
+    
+}
+
+
+
+main  img {
+    width: 80%;
+    min-width: 320px;
+    max-width: 600px;
+    margin: auto;
+    
+}
+main img.normal {
+    padding-bottom: 60px;
+    margin-top: 30px;
+    width: 80%;
+    
+    
+   
+  
+}
+
+.text{
+    text-align: center;
+    padding-top: 150px;
+}
+.txt {
+    padding-top: 10px;
+}
+.alav {
+    color: #d3000d;
+    padding-bottom: 40px;
+    font-size: 4.5em;
+    
+}
+.servico{
+    margin: center;
+    padding-top: 250px;
+    
+    
+}
+.lista {
+    list-style-type: none;
+    text-align: start;
+    padding-top: 125px;
+    font-size: 1.5em;
+    
+    
+}
+.code {
+    margin: center;
+    
+}
+svg {
+    
+    color: #d3000d;
+    height: 45px;
+    width: 110px;
+    padding-bottom: 9px;
+}
+.formulario {
+    margin: 70px;
+}
+.para {
+    font-size: 1.4em;
+}
+.botao2 {
+    height: 50px;
+    width: 240px;
+    border-radius: 9px;
+    background-color: #d3000d;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.form{
+    height: 50px;
+    width: 240px;
+    border-radius: 9px;
+    background-color: rgba(128, 128, 128, 0.555);
+    
+}
+.exp{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.pedro {
+    background-color: rgba(128, 128, 128, 0.459);
+    padding-top: 20px;
+    border-radius: 15px;
+    margin-left: 150px;
+    margin-right: 80px;
+    
+    
+    
+    
+   
+}
+.maria {
+    background-color: rgba(128, 128, 128, 0.459);
+    padding-top: 20px;
+    border-radius: 15px;
+    margin-left: 150px;
+    margin-right: 80px;
+    
+
+}
+.cc{
+    min-width: 80px;
+    max-width: 40px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+    
+}
+.dis{
+    font-size: 1.1em;
+    text-align: justify;
+    margin-left: 40px;
+    
+}
+.disc {
+     margin-left: 30px;
+     font-size: 1.1em;
+     text-align: justify;
+     padding-top: 5px;
+     margin-bottom: 10px;
+}
+.nom {
+    font-size: 1.2em;
+    margin-left: 20px;
+}
+.oq {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    
+}
+.cod {
+    text-align: start;
+    padding-top: 30px;
+   
+}
+.tem {
+    font-size: 4em;
+    font-style: italic;
+    text-align: start;
+    padding-bottom: 20px;
+    
+}
+.compl {
+    padding-left: 10px;
+}
+.sobre {
+    padding-top: 40px;
+}
+.contato {
+    padding-top: 40px;
+}
+.sociais {
+    padding-top: 40px;
+    
+}
+.pt1{
+    margin-left: 40px;
+}
+.amamos {
+    margin-top: 30px;
+}
+.pt3 {
+    margin-left: 30px;
+}
+
+.pt4 {
+    margin-right: 50px; 
+}
+.t{
+    margin-top: 30px;
+}
+.tt {
+    margin-top: 20px;
+}
